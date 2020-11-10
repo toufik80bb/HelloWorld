@@ -1,3 +1,3 @@
 # HelloWorld
 hi guys 
-i m doing good thanks for asking
+i m on my way to became a junior software developer
